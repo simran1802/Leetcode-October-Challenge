@@ -10,3 +10,4 @@
 |6.|Insert into a Binary Search Tree|Recursion|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/)|
 |7.|Rotate List|Linked List|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/)|
 |8.|Binary Search|Binary Search|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/)|
+|9.|Serialize and Deserialize BST|BST|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/)|

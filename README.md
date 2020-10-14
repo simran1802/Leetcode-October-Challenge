@@ -15,3 +15,4 @@
 |11.|Remove Duplicate Letters|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/)|
 |12.|Buddy Strings|String & Set|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/)|
 |13.|Sort List|Merge Sort|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/)|
+|14.|House Robber II|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/)|

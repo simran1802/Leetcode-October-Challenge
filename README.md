@@ -17,3 +17,4 @@
 |13.|Sort List|Merge Sort|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/)|
 |14.|House Robber II|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/)|
 |15.|Rotate Array|STL|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/)|
+|16.|Search a 2D Matrix|Binary Search|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/)|

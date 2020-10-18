@@ -19,4 +19,4 @@
 |15.|Rotate Array|STL|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/)|
 |16.|Search a 2D Matrix|Binary Search|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/)|
 |17.|Repeated DNA Sequences|Set and Map|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)|
-|18.|Best Time to Buy and Sell Stock IV|Dynamic Programming|[Link(https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/)
+|18.|Best Time to Buy and Sell Stock IV|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/)

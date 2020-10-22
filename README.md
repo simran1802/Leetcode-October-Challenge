@@ -23,3 +23,4 @@
 |19.|Minimum Domino Rotations For Equal Row|Greedy|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3500/)|
 |20.|Clone Graph|Graph|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3501/)|
 |21.|Asteroid Collision|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/)|
+|22.|Minimum Depth of Binary Tree|Recursion|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/)|

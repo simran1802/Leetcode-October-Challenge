@@ -26,3 +26,4 @@
 |22.|Minimum Depth of Binary Tree|Recursion|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/)|
 |23.|132 Pattern|Stack|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/)|
 |24.|Bag of Tokens|Greedy|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/)|
+|25.|Stone Game IV|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/)|

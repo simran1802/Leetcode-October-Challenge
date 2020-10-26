@@ -27,3 +27,4 @@
 |23.|132 Pattern|Stack|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/)|
 |24.|Bag of Tokens|Greedy|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/)|
 |25.|Stone Game IV|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/)|
+|26.|Champagne Tower|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/)|

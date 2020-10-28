@@ -29,3 +29,4 @@
 |25.|Stone Game IV|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/)|
 |26.|Champagne Tower|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/)|
 |27.|Linked List Cycle II|Linked List|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/)|
+|28.|Summary Ranges|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/)|

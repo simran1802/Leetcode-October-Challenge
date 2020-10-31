@@ -32,3 +32,4 @@
 |28.|Summary Ranges|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/)|
 |29.|Maximize Distance to Closest Person|Vector|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/)|
 |30.|Number of Longest Increasing Subsequence|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3513/)|
+|31.|Recover Binary Search Tree|Binary Search Tree & Recursion|[Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3514/)|
